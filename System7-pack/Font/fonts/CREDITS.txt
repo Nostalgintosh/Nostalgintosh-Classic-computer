@@ -1,0 +1,25 @@
+Font credits and licenses
+=========================
+
+ChicagoFLF.ttf
+  A vector recreation of Chicago, the classic Mac OS system font.
+  Author: Robin Casady (Casady & Greene). PUBLIC DOMAIN — see
+  ChicagoFLF-LICENSE.txt. Source: https://fontlibrary.org/en/font/chicagoflf
+
+ChiKareGo2.ttf
+  Pixel-perfect recreation of Chicago as it appeared on screen.
+  Author: Giles Booth. License: Creative Commons Attribution (CC-BY).
+  Source: http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=3780
+  About: http://www.suppertime.co.uk/blogmywiki/2017/04/chicago/
+  Renders pixel-perfect at 16px (12pt at 96 dpi).
+
+FindersKeepers.ttf
+  Pixel-perfect recreation of 9pt Geneva, the Finder's icon-label font.
+  Author: Giles Booth. License: Creative Commons Attribution (CC-BY).
+  Source: https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=3809
+  About: http://www.suppertime.co.uk/blogmywiki/2017/04/finderskeepers/
+  Renders pixel-perfect at 16px (12pt at 96 dpi).
+
+Apple's original Chicago, Geneva and Monaco fonts are copyrighted by
+Apple Inc. and are NOT included in this pack. The fonts above are
+independent freeware/openly-licensed recreations.
