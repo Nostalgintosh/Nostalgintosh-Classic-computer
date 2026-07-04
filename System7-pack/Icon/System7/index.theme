@@ -1,0 +1,28 @@
+[Icon Theme]
+Name=System7
+Comment=Classic Mac OS System 7 style pixel icons
+Inherits=breeze
+Example=folder
+FollowsColorScheme=false
+Directories=scalable/places,scalable/devices,scalable/mimetypes
+
+[scalable/places]
+Size=32
+MinSize=8
+MaxSize=512
+Type=Scalable
+Context=Places
+
+[scalable/devices]
+Size=32
+MinSize=8
+MaxSize=512
+Type=Scalable
+Context=Devices
+
+[scalable/mimetypes]
+Size=32
+MinSize=8
+MaxSize=512
+Type=Scalable
+Context=MimeTypes
