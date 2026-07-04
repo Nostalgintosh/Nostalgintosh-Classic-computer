@@ -1,0 +1,36 @@
+[Desktop Entry]
+Name=System 7
+Comment=Classic Mac OS System 7 window decoration with pinstriped title bar
+X-KDE-PluginInfo-Author=System 7 Pack
+X-KDE-PluginInfo-Name=System7
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+
+[General]
+ActiveTextColor=0,0,0,255
+InactiveTextColor=119,119,119,255
+TitleAlignment=Center
+TitleVerticalAlignment=Center
+Animation=0
+Shadow=false
+
+[Layout]
+BorderLeft=1
+BorderRight=1
+BorderBottom=1
+TitleEdgeTop=0
+TitleEdgeBottom=0
+TitleEdgeLeft=0
+TitleEdgeRight=0
+TitleBorderLeft=6
+TitleBorderRight=6
+TitleHeight=20
+ButtonWidth=13
+ButtonHeight=13
+ButtonSpacing=6
+ButtonMarginTop=3
+ExplicitButtonSpacer=8
+PaddingTop=0
+PaddingBottom=0
+PaddingLeft=0
+PaddingRight=0

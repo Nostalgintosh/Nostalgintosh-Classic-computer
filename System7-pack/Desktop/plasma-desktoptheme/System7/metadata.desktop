@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=System7
+Comment=Classic Mac OS System 7 menu bar look for Plasma panels
+X-KDE-PluginInfo-Author=System 7 Pack
+X-KDE-PluginInfo-Name=System7
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+
+[Settings]
+FallbackTheme=default

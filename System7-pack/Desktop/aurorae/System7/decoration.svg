@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" shape-rendering="crispEdges">
+  <!-- ===================== active frame ===================== -->
+  <!-- title bar: white, 1px black top edge, gray pinstripes, 1px black bottom rule -->
+  <g id="decoration-top">
+    <rect x="0" y="0" width="32" height="20" fill="#ffffff"/>
+    <rect x="0" y="0" width="32" height="1" fill="#000000"/>
+    <rect x="0" y="5" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="7" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="9" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="11" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="13" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="15" width="32" height="1" fill="#999999"/>
+    <rect x="0" y="19" width="32" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-topleft">
+    <rect x="0" y="0" width="1" height="20" fill="#000000"/>
+  </g>
+  <g id="decoration-topright">
+    <rect x="0" y="0" width="1" height="20" fill="#000000"/>
+  </g>
+  <g id="decoration-left">
+    <rect x="0" y="0" width="1" height="8" fill="#000000"/>
+  </g>
+  <g id="decoration-right">
+    <rect x="0" y="0" width="1" height="8" fill="#000000"/>
+  </g>
+  <g id="decoration-bottom">
+    <rect x="0" y="0" width="32" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-bottomleft">
+    <rect x="0" y="0" width="1" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-bottomright">
+    <rect x="0" y="0" width="1" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-center">
+    <rect x="0" y="0" width="32" height="32" fill="#ffffff"/>
+  </g>
+
+  <!-- ===================== inactive frame ===================== -->
+  <!-- authentic System 7: plain white title bar, no stripes -->
+  <g id="decoration-inactive-top">
+    <rect x="0" y="0" width="32" height="20" fill="#ffffff"/>
+    <rect x="0" y="0" width="32" height="1" fill="#000000"/>
+    <rect x="0" y="19" width="32" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-topleft">
+    <rect x="0" y="0" width="1" height="20" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-topright">
+    <rect x="0" y="0" width="1" height="20" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-left">
+    <rect x="0" y="0" width="1" height="8" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-right">
+    <rect x="0" y="0" width="1" height="8" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-bottom">
+    <rect x="0" y="0" width="32" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-bottomleft">
+    <rect x="0" y="0" width="1" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-bottomright">
+    <rect x="0" y="0" width="1" height="1" fill="#000000"/>
+  </g>
+  <g id="decoration-inactive-center">
+    <rect x="0" y="0" width="32" height="32" fill="#ffffff"/>
+  </g>
+</svg>

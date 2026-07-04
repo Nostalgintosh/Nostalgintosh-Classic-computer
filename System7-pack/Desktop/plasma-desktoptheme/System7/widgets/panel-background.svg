@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" shape-rendering="crispEdges">
+  <!-- white menu bar with 1px black bottom rule, System 7 style -->
+  <g id="topleft"><rect x="0" y="0" width="2" height="2" fill="#ffffff"/></g>
+  <g id="top"><rect x="0" y="0" width="8" height="2" fill="#ffffff"/></g>
+  <g id="topright"><rect x="0" y="0" width="2" height="2" fill="#ffffff"/></g>
+  <g id="left"><rect x="0" y="0" width="2" height="8" fill="#ffffff"/></g>
+  <g id="center"><rect x="0" y="0" width="8" height="8" fill="#ffffff"/></g>
+  <g id="right"><rect x="0" y="0" width="2" height="8" fill="#ffffff"/></g>
+  <g id="bottomleft">
+    <rect x="0" y="0" width="2" height="1" fill="#ffffff"/>
+    <rect x="0" y="1" width="2" height="1" fill="#000000"/>
+  </g>
+  <g id="bottom">
+    <rect x="0" y="0" width="8" height="1" fill="#ffffff"/>
+    <rect x="0" y="1" width="8" height="1" fill="#000000"/>
+  </g>
+  <g id="bottomright">
+    <rect x="0" y="0" width="2" height="1" fill="#ffffff"/>
+    <rect x="0" y="1" width="2" height="1" fill="#000000"/>
+  </g>
+</svg>
