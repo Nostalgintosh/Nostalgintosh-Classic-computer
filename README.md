@@ -8,6 +8,8 @@ This is for my small computer I created in a Macintosh Classic II case and I use
 ![OS](https://img.shields.io/badge/OS-Fedora%20Kinoite-blue)
 ![Theme](https://img.shields.io/badge/Aesthetic-System%207%20Platinum-grey)
 
+![Macintosh Classic](Macintosh.jpg
+
 ## 📖 About The Project
 **Nostalgintosh** is a "Restomod" computer project that fits modern, immutable Linux architecture inside a vintage **Macintosh Classic II** chassis. 
 
