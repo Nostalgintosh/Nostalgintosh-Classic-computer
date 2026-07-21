@@ -1,7 +1,7 @@
-# Nostalgintosh-Classic_Doculogue
+# Nostalgintosh-Classic-computer
 This is for my small computer I created in a Macintosh Classic II case and I use Fedora Kinoite (Immutable KDE Plasma) operating system
 
-# Project Nostalgintosh
+# Project Nostalgintosh computer
 **A Cyber-Archeology Build: 1991 Chassis, 2026 Soul.**
 
 ![Status](https://img.shields.io/badge/Status-Operational-success)
