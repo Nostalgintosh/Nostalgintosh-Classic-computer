@@ -1,7 +1,7 @@
 # Nostalgintosh-Classic_Doculogue
 This is for my small computer I created in a Macintosh Classic II case and I use Fedora Kinoite (Immutable KDE Plasma) operating system
 
-# 🍏 Project Nostalgintosh
+# Project Nostalgintosh
 **A Cyber-Archeology Build: 1991 Chassis, 2026 Soul.**
 
 ![Status](https://img.shields.io/badge/Status-Operational-success)
@@ -10,14 +10,14 @@ This is for my small computer I created in a Macintosh Classic II case and I use
 
 ![Macintosh Classic](Macintosh.jpg)
 
-## 📖 About The Project
+## About The Project
 **Nostalgintosh** is a "Restomod" computer project that fits modern, immutable Linux architecture inside a vintage **Macintosh Classic II** chassis. 
 
 Unlike typical Raspberry Pi emulators, this project runs a full-desktop **Atomic Linux** OS (Fedora Kinoite), customized to replicate the **System 7** environment of the early 90s while maintaining modern web browsing and development capabilities.
 
 ---
 
-## 🛠️ Hardware Specifications
+## Hardware Specifications
 | Component | Details |
 | :--- | :--- |
 | **Chassis** | Original Macintosh Classic II (circa 1991) |
@@ -27,7 +27,7 @@ Unlike typical Raspberry Pi emulators, this project runs a full-desktop **Atomic
 
 ---
 
-## 💾 The Software Stack: "Atomic Nostalgia"
+## The Software Stack: "Atomic Nostalgia"
 Instead of a standard Linux distro that can break with updates, this build uses **Fedora Kinoite**. This ensures the "Console-like" reliability of the original Macintosh.
 
 * **Base OS:** Fedora Kinoite (Immutable KDE Plasma).
@@ -37,7 +37,7 @@ Instead of a standard Linux distro that can break with updates, this build uses 
 
 ---
 
-## 🎨 Aesthetic Configuration (The "System 7" Recipe)
+## Aesthetic Configuration (The "System 7" Recipe)
 Achieving the 1991 "Platinum" look on a 2026 operating system requires specific manual overrides.
 
 ### 1. The "Platinum" Window Manager
@@ -59,7 +59,7 @@ The interface uses a modern TrueType recreation of Susan Kare's original **Chica
 
 ---
 
-## 🚀 Installation & Reproduction
+## Installation & Reproduction
 If you are building your own Nostalgintosh, here are the core setup commands used in this build.
 
 ### Enable Flatpak & Install Brave
