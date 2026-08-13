@@ -2,7 +2,7 @@
 This is for my small computer I created in a Macintosh Classic II case and I use Fedora Kinoite (Immutable KDE Plasma) operating system
 
 # Project Nostalgintosh computer
-**A Cyber-Archeology Build: 1991 Chassis, 2026 Soul.**
+**A Cyber-Archeology Build: 20 Century Chassis with a 21 Century Soul.**
 
 ![Status](https://img.shields.io/badge/Status-Operational-success)
 ![OS](https://img.shields.io/badge/OS-Fedora%20Kinoite-blue)
